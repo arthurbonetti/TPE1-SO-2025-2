@@ -17,7 +17,7 @@ gcc main.c -o main -lpthread
 #### 1 Milhão de IDs:
 <img width="1647" height="457" alt="image" src="https://github.com/user-attachments/assets/74777b40-d9c1-41ff-9ce7-2ed4206145bf" />
 
-#### 10 Milhlões de IDs:
+#### 10 Milhões de IDs:
 <img width="1647" height="457" alt="image" src="https://github.com/user-attachments/assets/bd71f3a0-0720-42d5-aeab-a03880ea0cc6" />
 
 ### Exemplo de Saída:
