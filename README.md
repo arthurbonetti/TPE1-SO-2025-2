@@ -10,7 +10,7 @@ Este projeto implementa um sistema concorrente em C que utiliza processos e thre
 gcc main.c -o main -lpthread
 ./main
 ```
-### Tempo para a execução:
+### Tempo de execução:
 #### 50 Mil IDs:
 <img width="1647" height="457" alt="image" src="https://github.com/user-attachments/assets/1bd5ae7d-8272-4947-9f38-24e924cf3b28" />
 
